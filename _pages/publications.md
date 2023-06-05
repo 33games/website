@@ -18,7 +18,7 @@ Team Photo:
 
 
 ![marc](https://github.com/33games/website/assets/125653256/21a5af7d-7836-47a9-90f2-9d540b8a37b2)
-Marc Avante: Head Programmer and Game Developer
+Marc Avante: Lead Programmer and Game Developer
 
 
 
@@ -33,6 +33,6 @@ Pol Celaya:  Programming and Direction
 
 
 ![pola](https://github.com/33games/website/assets/125653256/71e542e4-87e2-43b5-a4a1-0c8b510ebf77)
-Pol Álvarez:  Productor
+Pol Álvarez:  Producer
 
 
