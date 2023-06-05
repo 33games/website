@@ -18,21 +18,21 @@ Team Photo:
 
 
 ![marc](https://github.com/33games/website/assets/125653256/21a5af7d-7836-47a9-90f2-9d540b8a37b2)
-Marc Avante:
+Marc Avante: Head Programmer and Game Developer
 
 
 
 ![Ivan](https://github.com/33games/website/assets/125653256/04d08d79-adc9-4ad1-b7a0-fcbe9610b77a)
-Ivan Molins:
+Ivan Molins:  Website and Design
 
 
 
 ![polc](https://github.com/33games/website/assets/125653256/e12046eb-dc9c-4c26-a281-d101ef51f860)
-Pol Celaya:
+Pol Celaya:  Programming and Direction
 
 
 
 ![pola](https://github.com/33games/website/assets/125653256/71e542e4-87e2-43b5-a4a1-0c8b510ebf77)
-Pol Álvarez:
+Pol Álvarez:  Productor
 
 
