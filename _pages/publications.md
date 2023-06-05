@@ -31,7 +31,7 @@ author_profile: true
 
 
 ![Ivan](https://github.com/33games/website/assets/125653256/04d08d79-adc9-4ad1-b7a0-fcbe9610b77a)<br>
-<strong>Ivan Molins:</strong>  Website and Art/Design
+<strong>Ivan Molins:</strong>  Web Developer and Art/Design
 
 
 
