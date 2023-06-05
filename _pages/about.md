@@ -8,7 +8,6 @@ redirect_from:
   - /about.html
 ---
 
-<!DOCTYPE html>
 <html>
 <head>
   <title>HTML Elements Reference</title>
