@@ -22,7 +22,7 @@ Marc Avante: Lead Programmer and Game Developer
 
 
 ![Ivan](https://github.com/33games/website/assets/125653256/04d08d79-adc9-4ad1-b7a0-fcbe9610b77a)
-Ivan Molins:  Website and Design
+Ivan Molins:  Website and Art/Design
 
 
 
@@ -32,6 +32,7 @@ Pol Celaya:  Programming and Direction
 
 
 ![pola](https://github.com/33games/website/assets/125653256/71e542e4-87e2-43b5-a4a1-0c8b510ebf77)
-Pol Álvarez:  Producer
+Pol Álvarez:  Producer and QA 
 
-
+<br><br><br><br><br><br>
+Besides the current responsibility, each team member has worked on the game's code 
