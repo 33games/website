@@ -41,7 +41,7 @@ author_profile: true
 
 
 ![pola](https://github.com/33games/website/assets/125653256/71e542e4-87e2-43b5-a4a1-0c8b510ebf77)<br>
-<strong>Pol Álvarez:<strong>  Producer and QA 
+<strong>Pol Álvarez:</strong>  Producer and QA 
 
 <br>
 Besides the current responsibility, we have all worked as a team and each team member has worked on the game's code and on the other aspects of the project.
