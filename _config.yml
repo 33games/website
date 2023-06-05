@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "33Games Homepage"
+title                    : "Homepage"
 title_separator          : "-"
 name                     : &name "33Games"
 description              : &description "personal description"
