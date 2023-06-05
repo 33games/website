@@ -1,15 +1,15 @@
 # main links links
 main:
-  - title: "Publications"
+  - title: "Team"
     url: /publications/
  
-  - title: "Talks"
+  - title: "Panic Bomber"
     url: /talks/    
  
-  - title: "Teaching"
+  - title: "Gameplay"
     url: /teaching/    
     
-  - title: "Portfolio"
+  - title: "Download"
     url: /portfolio/
         
  # - title: "Blog Posts"
