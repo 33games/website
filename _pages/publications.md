@@ -1,18 +1,27 @@
 ---
 layout: archive
-title: "Our Team"
+title: "Team Photo"
 permalink: /publications/
 author_profile: true
 ---
 
 
 
-Team Photo:
 ![FOTON2](https://github.com/33games/website/assets/125653256/1b7ad724-8551-451d-8632-3aae04a52875)<br>
 
 
 
+<!DOCTYPE html>
+<html>
+<head>
+  <title>HTML Elements Reference</title>
+</head>
+<body>
 
+<h1>Members</h1>
+
+</body>
+</html>
 
 
 
