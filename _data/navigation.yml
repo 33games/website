@@ -21,14 +21,14 @@ main:
 #  - title: "Guide"
 #    url: /markdown/
 
-  -title: "Our Team"
-  url: /team/
+   - title: "Our Team"
+      url: /team/
   
-  -title: "Our Work"
-  url: /ourwork/
+   - title: "Our Work"
+      url: /ourwork/
   
-  -title: "Gameplay"
-  url: /gameplay/
+   - title: "Gameplay"
+      url: /gameplay/
   
-  -title: "Download"
-  url: /download/
+   - title: "Download"
+       url: /download/
