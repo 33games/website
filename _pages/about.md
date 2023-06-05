@@ -7,6 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
+![33Games](https://github.com/33games/website/assets/125653256/21827b43-75b3-4153-8ebf-94a806a347b7)
 
 <html>
 <head>
