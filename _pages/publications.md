@@ -11,7 +11,7 @@ author_profile: true
 
 
 
-<!DOCTYPE html>
+
 <html>
 <head>
   <title>HTML Elements Reference</title>
@@ -44,4 +44,4 @@ Pol Celaya:  Programming and Direction
 Pol Álvarez:  Producer and QA 
 
 <br>
-Besides the current responsibility, each team member has worked on the game's code 
+Besides the current responsibility, we all worked as a team and each team member has worked on the game's code and on the other aspects of the project.
