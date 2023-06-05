@@ -1,8 +1,6 @@
 # main links links
 main:
-  - title: "Team"
-    url: /publications/
- 
+
   - title: "Panic Bomber"
     url: /talks/    
  
@@ -11,6 +9,10 @@ main:
     
   - title: "Download"
     url: /portfolio/
+    
+  - title: "Team"
+    url: /publications/
+ 
         
  # - title: "Blog Posts"
  #   url: /year-archive/
